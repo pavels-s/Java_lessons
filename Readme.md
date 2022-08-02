@@ -1,6 +1,6 @@
 Hello.
 
-This is an archive with completed tasks and examples that were completed during JavaGuru.lv Java 1.0 course.
+This is an archive with excersises and examples that were completed during JavaGuru.lv "Java basics" course.
 
 This course explained Java programming basics and covered following topics:
 Variables, operators, expressions.
